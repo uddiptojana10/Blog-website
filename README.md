@@ -1,6 +1,6 @@
 # Blog-website
 
-## Created a daily journal/blog-website using EJS, NodeJs,ExpressJs,Javascript, HTML and CSS.
+### Created a daily journal/blog-website using EJS, NodeJs,ExpressJs,Javascript, HTML and CSS.
 
 ## How this works:🔽
 
