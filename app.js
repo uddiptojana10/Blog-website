@@ -90,6 +90,8 @@ app.get("/posts/:postId", (req, res) => {
 
 
 
-app.listen(3000,() => {
-  console.log("Server started ");
+const port=process.env.PORT||3000;
+
+app.listen(port,function(){
+    console.log("server started");
 });
